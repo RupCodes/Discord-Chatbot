@@ -40,7 +40,7 @@ Repl: [![Run on Repl.it](https://repl.it/badge/github/TheRealGogeta/Discord-Chat
 any error or problem while running the code? join the server for support  
 
 ### Screenshot
-![Chatbot]()
+![Chatbot](https://cdn.discordapp.com/attachments/837202281618866207/837217805640138762/Capture.PNG)
 
 ### Credits
 [Brainshop.ai](https://brainshop.ai/)
