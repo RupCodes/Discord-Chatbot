@@ -62,4 +62,4 @@ fs.readdir("./commands/", (err, files) => {
 });
 
 // Login
-client.login("ODM0ODA5MDMzNDc0NTcyMzU4.YIGSfw.AuviW4hFURPfuE-Hpr7G8rPs6So"); // Your Discord Bot Token
+client.login(process.env.token); // Your Discord Bot Token
