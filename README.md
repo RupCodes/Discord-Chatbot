@@ -34,13 +34,13 @@ Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a
 Repl: [![Run on Repl.it](https://repl.it/badge/github/)]()
 
 ### Detailed Installation
-[Youtube]()
+[Youtube](https://www.youtube.com/channel/UCkpN5Xw5EMqoPsfQWKpYYwA)
 
 ### [Support Server](https://discord.gg/ddEmXUPCE4)
 any error or problem while running the code? join the server for support  
 
 ### Screenshot
-[!Chatbot]()
+![Chatbot]()
 
 ### Credits
 [Brainshop.ai](https://brainshop.ai/)
