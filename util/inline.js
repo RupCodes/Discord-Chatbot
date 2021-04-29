@@ -5,7 +5,7 @@ class ExtAPIMessage extends APIMessage {
         if (this.data) return this;
         super.resolveData();
         if ((this.options.allowedMentions || {}).repliedUser !== undefined) {
-            if (this.data.allowed_mentions === undefined) this.data.allowed_mentions = {};
+            if (this.data.allowed_mentions === undefined) this.data.allowed_mentions = { false };
             Object.assign(this.data.allowed_mentions, { replied_user: this.options.allowedMentions.repliedUser });
             delete this.options.allowedMentions.repliedUser;
         }
