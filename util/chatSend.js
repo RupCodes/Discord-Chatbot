@@ -13,7 +13,7 @@ const chatSend = async (message) => {
        let reply = res.data;
         if (reply) {
             message.channel.stopTyping();
-            message.sendInline(reply.cnt);
+            message.sendInline(reply.cnt, { allowedMentions: { repliedUser: false } });
         }
        })
 };
