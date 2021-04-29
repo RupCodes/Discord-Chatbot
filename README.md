@@ -9,7 +9,7 @@ to get brainshop key, follow the steps below
 * Click on "Create a Root Brain", Enter any Name
 
 #### do the same settings as shown below:
-[!settings](https://cdn.discordapp.com/attachments/837202281618866207/837202384563994684/unknown.png)
+![settings](https://cdn.discordapp.com/attachments/837202281618866207/837202384563994684/unknown.png)
 
 * Save the api details
 * Fill them in .env (this will keep your details private)
