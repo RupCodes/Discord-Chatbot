@@ -30,8 +30,8 @@ to get brainshop key, follow the steps below
 * Start it
 
 ## or
-Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)]()
-Repl: [![Run on Repl.it](https://repl.it/badge/github/)]()
+Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/discord-chatbot-glitch)
+Repl: [![Run on Repl.it](https://repl.it/badge/github/TheRealGogeta/Discord-Chatbot)](https://replit.com/@TheRealGogeta/Discord-Chatbot)
 
 ### Detailed Installation
 [Youtube](https://www.youtube.com/channel/UCkpN5Xw5EMqoPsfQWKpYYwA)
@@ -44,3 +44,4 @@ any error or problem while running the code? join the server for support
 
 ### Credits
 [Brainshop.ai](https://brainshop.ai/)
+
