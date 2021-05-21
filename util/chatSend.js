@@ -16,7 +16,7 @@ const chatSend = async (message) => {
         if (reply) {
             message.channel.stopTyping();
             message.sendInline(reply.cnt, { allowedMentions: { repliedUser: false } });
-        } else if(!reply) {
+        } else if(!reply) { 
         message.channel.stopTyping();
         message.sendInline("api did not respond at time [TIME OUT]", { allowedMentions: { repliedUser: false } });
 }
