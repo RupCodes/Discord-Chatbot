@@ -18,7 +18,7 @@ const chatSend = async (message) => {
             message.sendInline(reply.cnt, { allowedMentions: { repliedUser: false } });
         } else if(!reply) {
         message.channel.stopTyping();
-        message.sendInline("no reply from the api", { allowedMentions: { repliedUser: false } });
+        message.sendInline("no reply came from the api", { allowedMentions: { repliedUser: false } });
 }
        })
  } catch (e) {
