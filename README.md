@@ -7,12 +7,20 @@ to get brainshop key, follow the steps below
 * Create an account on [brainshop.ai](https://brainshop.ai/)
 * Once you logged in, Click on Create Brain/ Add Brain
 * Click on "Create a Root Brain", Enter any Name
-
+ 
 #### do the same settings as shown below:
 ![settings](https://cdn.discordapp.com/attachments/837202281618866207/837202384563994684/unknown.png)
 
 * Save the api details
 * Fill them in .env (this will keep your details private)
+
+## MongoDb
+to get mongoUrl, follow the steps below 
+* Create an account/Sign Up with Google on [MongoDb](https://www.mongodb.com/)
+* Create Free Cluster, name it anything
+* Copy the mongourl, put your password in it
+* go to network access and whitelist 0.0.0.0/0 ip to access it from anywhere
+* paste the url in .env
 
 ### Bot Installation | Self Host
 * Extract `.zip` in a folder
