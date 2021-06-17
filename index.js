@@ -23,13 +23,19 @@ client.em = require("./util/embed")
 client.commands = new Discord.Collection();
 client.aliases = new Discord.Collection();
 
-// Database
+// Database Mongo 
+/*
 const { Database } = require("quickmongo");
 client.db = new Database(process.env.mongoUrl);
 
 client.db.on("ready", () => {
     console.log("   ==========================\n   Mongo Database connected!\n   ==========================");
 })
+*/
+// Database Quick.db
+client.db = require('quick.db');
+
+// Don't use both at same time or code will stop working
 
 // Ready
 client.on('ready', () => {
