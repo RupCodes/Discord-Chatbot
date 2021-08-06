@@ -1,5 +1,5 @@
 # Discord-Chatbot
-An Open Source Chatbot for Discord | Discord.js | Made By Rup#2626
+An Open Source Chatbot for Discord | Discord.js | Made By Acê#1234
 > Powered By Brainshop
 
 ## Brainshop 
