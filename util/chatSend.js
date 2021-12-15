@@ -6,7 +6,7 @@ const chatSend = async (message) => {
    try {
     let bid = process.env.bid // Your Bid From Brainshop.ai
     let key = process.env.key // Your Key From Brainshop.ai
-    let uid = "1"
+    let uid = message.author.id
     let msg = message.content
         message.channel.startTyping()
        await axios.get(`http://api.brainshop.ai/get?bid=${bid}&key=${key}&uid=${uid}&msg=${msg}`)
